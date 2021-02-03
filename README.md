@@ -13,15 +13,15 @@ The data set included with the assignment is based on 2014 ACS 1-year estimates 
 
 ## D3 Dabbler
 
-![4-scatter](https://user-images.githubusercontent.com/68926116/106798867-92a7d980-662c-11eb-9bbf-46f7b07bb561.png)
+![8-tooltip](https://user-images.githubusercontent.com/68926116/106799771-a30c8400-662d-11eb-9a65-0d14fcc7aaf9.gif)
 
 Created a scatter plot between two of the data variables such as `Healthcare vs. Poverty` or `Smokers vs. Age`.
 
 Used the D3 techniques, create a scatter plot that represents each state with circle elements. Coded this graphic in the `app.js` file and pulled in the data from `data.csv` by using the `d3.csv` function. The final scatter plot ultimately appears like the image at the top of this section.
 
 * State abbreviations is included in the circles.
-
 * X/Y Axes and labels is created and situated to the left and bottom of the chart.
+* Tooltips are added to each of circles, each tooltips are displayed with the data that the user has selected. 
 
 
 
